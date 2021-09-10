@@ -1,0 +1,64 @@
+body
+{
+    background-color: lightblue !important;
+    margin: 20px !important;
+}
+
+h2
+{
+    color: darkorange;
+    text-align: center;
+}
+
+p
+{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+.divider
+{
+    width:100px;
+    height: 2px;
+    background: darkorange;
+    margin: 0 auto;
+}
+
+.container
+{
+    background-color: steelblue;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.form-floating
+{
+    margin: 10px;
+}
+
+.btn
+{
+    background-color: darkorange !important;
+    color: white !important;
+    margin: 10px auto !important;
+}
+
+.blue
+{
+    color: midnightblue;
+}
+
+.invalid-feedback
+{
+    color: darkorange !important;
+}
+
+#confirmPassword
+{
+    color: darkorange;
+    font-size: 14px;
+}
